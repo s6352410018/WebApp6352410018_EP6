@@ -1,0 +1,13 @@
+h1 {
+    color: #ff0000;
+    text-align: right;
+    text-decoration: underline;
+
+}
+
+img {
+    width: 200px;
+    border: solid 3px;
+    padding: 50px;
+    border-radius: 25px;
+}
